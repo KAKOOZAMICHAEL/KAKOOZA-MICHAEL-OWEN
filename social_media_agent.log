@@ -1,0 +1,25 @@
+2025-07-04 20:03:51,241 - ERROR - Authentication failed: 401 Unauthorized
+Unauthorized
+2025-07-04 20:07:33,716 - INFO - Authentication successful for user: KAKOOZA_OWEN
+2025-07-04 20:07:33,737 - INFO - Step 3: Creating post on X...
+2025-07-04 20:07:34,172 - ERROR - Access forbidden. Check your API permissions.
+2025-07-04 20:10:37,186 - INFO - Authentication successful for user: KAKOOZA_OWEN
+2025-07-04 20:10:37,193 - INFO - Step 3: Creating post on X...
+2025-07-04 20:10:37,474 - ERROR - Access forbidden. Check your API permissions.
+2025-07-04 20:30:43,251 - ERROR - Authentication failed: 401 Unauthorized
+Unauthorized
+2025-07-04 20:34:20,815 - ERROR - Authentication failed: 401 Unauthorized
+Unauthorized
+2025-07-04 20:36:23,058 - ERROR - Authentication failed: 401 Unauthorized
+Unauthorized
+2025-07-04 20:38:57,434 - ERROR - Authentication failed: 401 Unauthorized
+Unauthorized
+2025-07-04 20:43:05,054 - ERROR - Authentication failed: 401 Unauthorized
+Unauthorized
+2025-07-05 14:10:39,728 - INFO - Authentication successful for user: KAKOOZA_OWEN
+2025-07-05 14:10:39,730 - INFO - Step 1: Preparing to create post with content: 'Hello from my AI Social Media Agent! 🤖 This post w...'
+2025-07-05 14:10:39,730 - INFO - Step 3: Creating post on X...
+2025-07-05 14:10:40,163 - INFO - Step 4: Post created successfully with ID: 1941454740371480596
+2025-07-05 14:10:40,164 - INFO - Step 5: Verifying post with ID: 1941454740371480596
+2025-07-05 14:10:42,529 - ERROR - Post verification failed: 401 Unauthorized
+Unauthorized
